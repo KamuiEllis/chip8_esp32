@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "name": "ESP-IDF",
+            "compilerPath": "D:/c++/ucrt64/bin/g++.exe",
+            "compileCommands": [
+                "C:\\Users\\natha\\OneDrive\\Desktop\\esp\\blink\\build\\compile_commands.json"
+            ],
+            "intelliSenseMode": "gcc-x86",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "D:/Espressif/frameworks/esp-idf-v5.5.3/components/freertos/FreeRTOS-Kernel/include",
+                "D:/Espressif/frameworks/esp-idf-v5.5.3/components/freertos/config/include/freertos"
+            ],
+            "browse": {
+                "path": [
+                    "${workspaceFolder}"
+                ],
+                "limitSymbolsToIncludedHeaders": true
+            }
+        }
+    ],
+    "version": 4
+}
